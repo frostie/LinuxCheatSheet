@@ -1,3 +1,4 @@
-| Command | Description         | Output |
-| ------- | ------------------- | ------ |
-| pwd     | prints working day  |        |
+| Command       | Description           | Output |
+| ------------- | --------------------- | ------ |
+| pwd           | prints working day    |        |
+| mkdir -v dir1 | make directory "dir1" |        |
